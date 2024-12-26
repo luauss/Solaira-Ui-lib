@@ -5,7 +5,7 @@ Welcome to the documentation for the Solaris UI Library. This guide will help yo
 ## **Bootstrapper**
 To begin using the library, add the following line to your script:
 ```lua
-local Solaris = loadstring(game:HttpGet("https://raw.githubusercontent.com/luauss/Solaira-Ui-lib/refs/heads/main/main.lua", true))()
+local Solaris = loadstring(game:HttpGet("https://raw.githubusercontent.com/luauss/Solaira-Ui-lib/refs/heads/main/EnhancedUILibrary.lua", true))()
 ```
 
 ---
